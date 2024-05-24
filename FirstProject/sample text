@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The video poster attribute</h1>
+
+<video width="320" height="240" poster="/images/w3schools_green.jpg" controls>
+   <source src="t https://www.youtube.com/embed/5Bv25y7PH-0?si=YaXbqEjErcysfZn5&start=462" type="video/mp4">
+   <source src="t https://www.youtube.com/embed/5Bv25y7PH-0?si=YaXbqEjErcysfZn5&start=462" type="video/ogg">
+   Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
